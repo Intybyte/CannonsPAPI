@@ -1,5 +1,6 @@
 Placeholders:
 
+```
 %cannons_name%
 %cannons_design%
 %cannons_horizontal_angle%
@@ -7,3 +8,4 @@ Placeholders:
 %cannons_temperature%
 %cannons_loaded_gunpowder%
 %cannons_loaded_projectile%
+```
