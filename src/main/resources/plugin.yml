@@ -1,0 +1,5 @@
+name: cannons_papi
+version: '1.0.0'
+main: me.vaan.cannons_papi.CannonsPAPI
+api-version: '1.21'
+depend: ["Cannons", "PlaceholderAPI"]
